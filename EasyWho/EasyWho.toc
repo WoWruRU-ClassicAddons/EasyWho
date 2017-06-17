@@ -2,4 +2,5 @@
 ## Title: EasyWho
 ## Version: 1.2.1
 ## Notes: Add buttons to the Who-Frame for easy configuration of a who request
+## Notes-ruRU: Улучшенный список /who (Перевод gamer4eg)
 EasyWho.xml

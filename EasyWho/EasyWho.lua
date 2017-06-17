@@ -103,12 +103,12 @@ function EW_OnClick(request)
 			end
 			----------------------------------------
 		else
-			minlevel = level - 3;
+			minlevel = level - 5;
 			if (minlevel < 1) then
 				minlevel = 1;
 			end
 		
-			maxlevel = level + 3;
+			maxlevel = level + 5;
 			if (maxlevel > 60) then
 				maxlevel = 60;
 			end
